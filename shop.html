@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UMAMA - Reveal The Beauty of Hijab</title>
+
+    <!--- favicon -->
+    <link rel="shortcut icon" href="./favicon.png" type="image/svg+xml" />
+
+    <!--- custom css link -->
+    <link rel="stylesheet" href="./assets/css/style.css" />
+
+    <!--- google font link -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Urbanist:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+      crossorigin="anonymous"
+    />
+
+    <!--- preload images -->
+    <link rel="preload" as="image" href="./assets/images/logo.png" />
+    <link rel="preload" as="image" href="./assets/images/hero-banner-1.jpeg" />
+    <link rel="preload" as="image" href="./assets/images/hero-banner-2.jpeg" />
+    <link rel="preload" as="image" href="./assets/images/hero-banner-3.jpeg" />
+  </head>
+
+  <body id="top">
+    <!--- #HEADER-->
+    <header class="header">
+      <div class="alert">
+        <div class="container">
+          <p class="alert-text">Cashback 3% s/d 2.5RB Min. Blj Rp 75RB</p>
+        </div>
+      </div>
+
+      <div class="header-top" data-header>
+        <div class="container">
+          <button class="nav-open-btn" aria-label="open menu" data-nav-toggler>
+            <span class="line line-1"></span>
+            <span class="line line-2"></span>
+            <span class="line line-3"></span>
+          </button>
+
+          <a href="#" class="logo">
+            <img
+              src="./assets/images/logo.png"
+              width="179"
+              height="26"
+              alt="Umama"
+            />
+          </a>
+
+          <div class="header-actions">
+            <div class="cart-btn">
+              <span class="nav-icon">
+                <i class="fa fa-cart-plus" aria-hidden="true"></i>
+              </span>
+              <div class="cart-items">0</div>
+            </div>
+          </div>
+
+          <nav class="navbar">
+            <ul class="navbar-list">
+              <li>
+                <a href="index.html#home" class="navbar-link has-after">Home</a>
+              </li>
+              <li>
+                <a href="outlet.html" class="navbar-link has-after"
+                  >Our Store</a
+                >
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <!--- #MOBILE NAVBAR -->
+
+    <div class="sidebar">
+      <div class="mobile-navbar" data-navbar>
+        <div class="wrapper">
+          <a href="index.html" class="logo">
+            <img
+              src="./assets/images/logo.png"
+              width="179"
+              height="26"
+              alt="UMAMA"
+            />
+          </a>
+
+          <button
+            class="nav-close-btn"
+            aria-label="close menu"
+            data-nav-toggler
+          >
+            <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+          </button>
+        </div>
+
+        <ul class="navbar-list">
+          <li>
+            <a href="index.html#home" class="navbar-link" data-nav-link>Home</a>
+          </li>
+
+          <li>
+            <a href="index.html#collection" class="navbar-link" data-nav-link
+              >Collection</a
+            >
+          </li>
+
+          <li>
+            <a href="outlet.html" class="navbar-link" data-nav-link
+              >Our Store</a
+            >
+          </li>
+        </ul>
+      </div>
+
+      <div class="overlay" data-nav-toggler data-overlay></div>
+      <div class="notification-toast" data-toast>
+        <button class="toast-close-btn" data-toast-close>
+          <ion-icon name="close-outline"></ion-icon>
+        </button>
+
+        <div class="toast-banner">
+          <img
+            src="./assets/images/1.jpg"
+            alt="Glowing Syar'i LC"
+            width="80"
+            height="70"
+          />
+        </div>
+
+        <div class="toast-detail">
+          <p class="toast-message">Someone in new just bought</p>
+
+          <p class="toast-title">Glowing Syar'i LC</p>
+
+          <p class="toast-meta"><time datetime="PT2M">2 Minutes</time> ago</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- start of products -->
+    <section class="products">
+      <div class="section-title">
+        <h2>our products</h2>
+      </div>
+
+      <div class="products-center">
+        <!-- single product start -->
+        <!-- <article class="product">
+          <div class="img-container">
+            <img
+              src="./assets/img/product-1.jpeg"
+              alt="product"
+              class="product-img"
+            />
+
+            <button class="bag-btn" data-id="1">
+              <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+              add to bag
+            </button>
+          </div>
+          <h3>queen bag</h3>
+          <h4>Price: $16</h4>
+        </article> -->
+        <!-- single product end -->
+      </div>
+    </section>
+    <!-- end of products -->
+
+    <!-- start of cart -->
+    <div class="cart-overlay">
+      <div class="cart">
+        <span class="close-cart">
+          <i class="fa fa-window-close" aria-hidden="true"></i>
+        </span>
+        <h2>your cart</h2>
+
+        <div class="cart-content">
+          <!-- cart item start -->
+          <!-- <div class="cart-item">
+            <img src="./assets/img/product-1.jpeg" alt="product" />
+
+            <div>
+              <h4>queen bed</h4>
+              <h5>$9.00</h5>
+              <span class="remove-item">remove</span>
+            </div>
+
+            <div>
+              <i class="fa fa-chevron-up" aria-hidden="true"></i>
+              <p class="item-amount">1</p>
+              <i class="fa fa-chevron-down" aria-hidden="true"></i>
+            </div>
+          </div> -->
+          <!-- cart item end -->
+        </div>
+        <!-- cart footer -->
+        <div class="cart-footer">
+          <h3>total : Rp. <b class="cart-total">0</b></h3>
+
+          <!-- clear all cart item button -->
+          <button class="clear-cart banner-btn">
+            <i class="fas fa-trash-alt"></i>
+          </button>
+
+          <button type="submit" href="shipping.html">Shipping</button>
+        </div>
+      </div>
+    </div>
+    <!-- end of cart -->
+    <!--- #FOOTER -->
+
+    <footer class="footer" data-section>
+      <div class="container">
+        <div class="footer-top">
+          <ul class="footer-list">
+            <li>
+              <p class="footer-list-title">Company</p>
+            </li>
+
+            <li>
+              <p class="footer-list-text">
+                Find a location nearest you. See
+                <a href="outlet.html" class="link">Our Stores</a>
+              </p>
+            </li>
+
+            <li>
+              <p class="footer-list-text bold">+62 811 234 2998</p>
+            </li>
+
+            <li>
+              <p class="footer-list-text">onlieumama@gmail.com</p>
+            </li>
+          </ul>
+
+          <ul class="footer-list">
+            <li>
+              <p class="footer-list-title">Useful links</p>
+            </li>
+
+            <li>
+              <a href="https://shopee.co.id/umamaofficial" class="footer-link"
+                >Shopee UMAMA Official</a
+              >
+            </li>
+
+            <li>
+              <a
+                href="https://www.lazada.co.id/shop/umamascarf/"
+                class="footer-link"
+                >Lazada UMAMA Official</a
+              >
+            </li>
+
+            <li>
+              <a
+                href="https://www.tokopedia.com/umamaofficial"
+                class="footer-link"
+                >Tokopedia UMAMA Official</a
+              >
+            </li>
+          </ul>
+
+          <ul class="footer-list">
+            <li>
+              <p class="footer-list-title">Infomation</p>
+            </li>
+
+            <li>
+              <a href="https://wa.me/c/6282240020070" class="footer-link"
+                >Admin 1 Grosir & Reseller</a
+              >
+            </li>
+
+            <li>
+              <a href="https://wa.me/c/6281320759997" class="footer-link"
+                >Admin 2 Grosir & Reseller</a
+              >
+            </li>
+
+            <li>
+              <a href="https://wa.me/c/628112163661" class="footer-link"
+                >Admin 3 Grosir & Reseller</a
+              >
+            </li>
+
+            <li>
+              <a href="https://wa.me/c/6281324346616" class="footer-link"
+                >Admin 4 Grosir & Reseller</a
+              >
+            </li>
+
+            <li>
+              <a
+                href="https://www.instagram.com/stories/highlights/17970248692120235/?hl=id"
+                class="footer-link"
+                >Shipping FAQ</a
+              >
+            </li>
+          </ul>
+
+          <div class="footer-list">
+            <p class="newsletter-title">UMAMA</p>
+
+            <p class="footer-text">
+              Umama is a hijab manufacturer that provides Umama and Umama Group
+              superior products at competitive prices. Umama scarf is one of the
+              hijab brands that specifically uses premium voal material. In
+              addition, the hijab motif design is also attractive and beautiful.
+            </p>
+          </div>
+        </div>
+
+        <div class="footer-bottom">
+          <div class="wrapper">
+            <p class="copyright">&copy; 2024 UMAMA</p>
+
+            <ul class="social-list">
+              <li>
+                <a href="https://wa.me/c/6281220872565" class="social-link">
+                  <ion-icon name="logo-whatsapp"></ion-icon>
+                </a>
+              </li>
+
+              <li>
+                <a
+                  link
+                  href="https://www.instagram.com/umama_scarf?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+                  class="social-link"
+                >
+                  <ion-icon name="logo-instagram"></ion-icon>
+                </a>
+              </li>
+
+              <li>
+                <a
+                  href="https://www.tiktok.com/@biandaprodusenhijab?_t=8krBZCibvqj&_r=1"
+                  class="social-link"
+                >
+                  <ion-icon name="logo-tiktok"></ion-icon>
+                </a>
+              </li>
+            </ul>
+          </div>
+
+          <a href="#" class="logo">
+            <img
+              src="./assets/images/logo.png"
+              width="179"
+              height="26"
+              loading="lazy"
+              alt="Glowing"
+            />
+          </a>
+
+          <img
+            src="./assets/images/pay.png"
+            width="313"
+            height="28"
+            alt="available all payment method"
+            class="w-100"
+          />
+        </div>
+      </div>
+    </footer>
+
+    <!--- #BACK TO TOP -->
+
+    <a
+      href="#top"
+      class="back-top-btn"
+      aria-label="back to top"
+      data-back-top-btn
+    >
+      <ion-icon name="arrow-up" aria-hidden="true"></ion-icon>
+    </a>
+
+    <!--- custom js link -->
+    <script src="./assets/js/script.js" defer></script>
+
+    <!--- ionicon link -->
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
+    <script src="./assets/js/app.js"></script>
+    <script src="./assets/js/script.js"></script>
+  </body>
+</html>

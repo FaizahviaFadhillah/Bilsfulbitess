@@ -1,0 +1,580 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "1"
+      },
+      "fields": {
+        "title": "Baby Paris",
+        "price": 20000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/1.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2"
+      },
+      "fields": {
+        "title": "Voal Thorsa Icon LC",
+        "price": 22000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/2.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3"
+      },
+      "fields": {
+        "title": "Paris Original (Posh)",
+        "price": 20000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/3.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4"
+      },
+      "fields": {
+        "title": "Paris Olive Motif",
+        "price": 22000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/4.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5"
+      },
+      "fields": {
+        "title": "Voal Miracle Motif",
+        "price": 21000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/5.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6"
+      },
+      "fields": {
+        "title": "Paris Original Syar'i (Posh)",
+        "price": 21000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/6.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "7"
+      },
+      "fields": {
+        "title": "Paris Cotton Eyelash",
+        "price": 19000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/7.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8"
+      },
+      "fields": {
+        "title": "Paris Original Print (Posh)",
+        "price": 20000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/8.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "9"
+      },
+      "fields": {
+        "title": "Pashmina Cradenza",
+        "price": 25000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/9.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10"
+      },
+      "fields": {
+        "title": "Glowing Syar'i Motif",
+        "price": 25000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/10.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "11"
+      },
+      "fields": {
+        "title": "Luxury Plain Icon",
+        "price": 25000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/11.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "12"
+      },
+      "fields": {
+        "title": "Voal Premium Digital V.02",
+        "price": 25000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/12.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "13"
+      },
+      "fields": {
+        "title": "Voal Premium Digital V.03",
+        "price": 25000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/13.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "14"
+      },
+      "fields": {
+        "title": "Luxury Motif Syar'i",
+        "price": 25000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/14.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "15"
+      },
+      "fields": {
+        "title": "Voal Osaka Motif",
+        "price": 25000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/15.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "16"
+      },
+      "fields": {
+        "title": "Pashmina Babydoll",
+        "price": 25000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/product-01.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "17"
+      },
+      "fields": {
+        "title": "Glowing Syar'i LC",
+        "price": 25000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/product-02.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "18"
+      },
+      "fields": {
+        "title": "Voal Digital Print Oval",
+        "price": 25000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/product-04.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "19"
+      },
+      "fields": {
+        "title": "Bergo Shakilla",
+        "price": 25000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/BergoShakilla.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "20"
+      },
+      "fields": {
+        "title": "Bergo Sporty",
+        "price": 25000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/product-06.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "21"
+      },
+      "fields": {
+        "title": "Ciput Arab",
+        "price": 25000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/collection-2.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "22"
+      },
+      "fields": {
+        "title": "Geara Blouse",
+        "price": 50000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/GearaBlouse.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "23"
+      },
+      "fields": {
+        "title": "Unna Shirt",
+        "price": 50000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/UnnaShirt.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "24"
+      },
+      "fields": {
+        "title": "Hazel Shirt",
+        "price": 250000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/HazelShirt.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "25"
+      },
+      "fields": {
+        "title": "Edna Blouse",
+        "price": 50000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/EdnaBlouse.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "26"
+      },
+      "fields": {
+        "title": "Casie Tunic",
+        "price": 50000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/CasieTunic.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "27"
+      },
+      "fields": {
+        "title": "Blume Series",
+        "price": 50000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/Blume.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "28"
+      },
+      "fields": {
+        "title": "Daisy Shirt",
+        "price": 250000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/DaisyShirt.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "29"
+      },
+      "fields": {
+        "title": "Falha Series",
+        "price": 250000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/product-07.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "30"
+      },
+      "fields": {
+        "title": "Tiana Shirt",
+        "price": 50000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/product-09.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "31"
+      },
+      "fields": {
+        "title": "Basic Collection",
+        "price": 50000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/product-12.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "32"
+      },
+      "fields": {
+        "title": "Utami Prayer Set",
+        "price": 50000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/Utami.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "33"
+      },
+      "fields": {
+        "title": "Zaera Dress",
+        "price": 250000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/ZaeraDress.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "34"
+      },
+      "fields": {
+        "title": "Aria Shirt",
+        "price": 50000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/AriaShirt.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "35"
+      },
+      "fields": {
+        "title": "Danish Dress",
+        "price": 250000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/DanishDress.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "36"
+      },
+      "fields": {
+        "title": "Gania Dress",
+        "price": 250000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./assets/images/GaniaDress.jpg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
